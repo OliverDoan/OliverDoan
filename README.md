@@ -25,6 +25,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliverdoan&show_icons=true&locale=en&layout=compact" alt="oliverdoan" /></p>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+
+## 📑 My Favorites Quote::
 <br>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default)
+
