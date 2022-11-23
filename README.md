@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 
+<p><img align="center" src="./images/banner-profile-github.png" alt="banner-profile-github" /></p>
+
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
 - 🔭 I’m currently working on [Unicloud](https://unicloud.com.vn/)
